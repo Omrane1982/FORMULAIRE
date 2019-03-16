@@ -1,0 +1,42 @@
+body{
+    background-color:rgb(red, green, blue);
+}
+
+.container{
+    background-color: aquamarine;
+    
+   
+    
+}
+.ada{
+    margin-left: 300px;
+    margin-top:20px;
+}
+   
+}
+table{
+   margin-top: ; 30px;
+    display: inline-block;
+    border-collapse: collapse;
+}
+td /* Toutes les cellules des tableaux... */
+{
+border: 1px solid black; /* auront une bordure de 1px */
+
+}
+.glob{
+    margin-top:  40px;
+    margin-left: 20%;
+   
+    width: 50%;
+}
+.submit{
+    text-align: center;
+    background-color:chartreuse;
+}
+input[type="submit"]{
+    background-color: chartreuse;
+}
+.uncle{
+    background-color:darkolivegreen
+}
